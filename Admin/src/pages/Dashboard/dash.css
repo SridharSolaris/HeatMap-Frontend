@@ -1,0 +1,27 @@
+.my-button {
+    background-color:rgb(19, 77, 163); /* Replace with your desired color */
+    color: white; /* Text color for the button */
+    padding:    5px;
+    margin: 5px; /* Adjust padding for desired size */
+    border: none; /* Remove default border */
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 50%; /* Add rounded corners */
+    cursor: pointer;
+    height: 36px;
+    width:20%;
+    
+  }
+  .Card heat {
+    width: 60%;/* Adjust width as desired */
+    height: 50%; /* Adjust height as desired */
+  }
+  #heatmap{
+    width:90%;
+    height:50%;
+  }
+  h5{
+   background-color:#7a6fbe; 
+   font-weight:800;
+   width: 100%;
+  }
